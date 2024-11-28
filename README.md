@@ -43,6 +43,3 @@ Modify `categories` dictionary to personalize sorting rules.
 
 ## Contributing
 Contributions welcome! Submit pull requests or open issues.
-
-## License
-MIT License
